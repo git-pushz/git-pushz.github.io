@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /
+
+Allow: /synthscripter/
+
+Sitemap: https://git-pushz.github.io/synthscripter/sitemap.xml
