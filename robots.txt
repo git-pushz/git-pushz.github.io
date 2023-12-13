@@ -1,8 +1,7 @@
-User-agent: *
-Disallow: /
+user-agent: *
+allow: /synthscripter
+allow: /just-a-kanban-board
+disallow: /
 
-Allow: /synthscripter/
-Allow: /just-a-kanban-board/
-
-Sitemap: https://git-pushz.github.io/synthscripter/sitemap.xml
-Sitemap: https://git-pushz.github.io/just-a-kanban-board/sitemap.xml
+sitemap: https://git-pushz.github.io/synthscripter/sitemap.xml
+sitemap: https://git-pushz.github.io/just-a-kanban-board/sitemap.xml
